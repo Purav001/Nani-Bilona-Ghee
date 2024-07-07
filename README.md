@@ -4,8 +4,8 @@
 1. Clone repo
 
    ```shell
-    $ git clone git@github.com:basir/next-amazona-v2.git
-    $ cd next-amazona-v2
+    $ git clone git@github.com/purav001/Nani-Bilona-Ghee.git
+    $ cd Nani-Bilona-Ghee
    ```
 
 2. Create .env File
