@@ -42,7 +42,7 @@ const Contact: FC = () => {
                 Hey, We have Recieved you request!
               </span>
               <p className="flex justify-center text-[#4F4A45] font-semibold">
-                You will recieve a call from us between the time slot selected
+                You will recieve a call from us between time slot selected
                 by you.
               </p>
             </div>
